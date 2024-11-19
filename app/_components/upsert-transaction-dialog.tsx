@@ -40,7 +40,7 @@ import {
   TransactionPaymentMethod,
   TransactionType,
 } from "@prisma/client";
-import { UpsertTransaction } from "../_actions/add-transaction";
+import { UpsertTransaction } from "../_actions/upsert-transactions";
 
 interface UpsertTransactionDialogProps {
   isOpen: boolean;
