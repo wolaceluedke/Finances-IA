@@ -11,7 +11,7 @@ import {
 } from "@/app/_contants/transactions";
 import EditTransactionButton from "../_components/edit-transactions-button";
 
-export const transactionColums: ColumnDef<Transaction>[] = [
+export const transactionColumns: ColumnDef<Transaction>[] = [
   {
     accessorKey: "name",
     header: "Nome",
