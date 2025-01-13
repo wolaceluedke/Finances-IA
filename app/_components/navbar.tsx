@@ -42,7 +42,7 @@ const Navbar = () => {
               : "text-muted-foreground"
           }
         >
-          Assianturas
+          Assinaturas
         </Link>
       </div>
       <UserButton showName />
