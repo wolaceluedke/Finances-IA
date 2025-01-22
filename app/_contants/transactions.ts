@@ -46,7 +46,7 @@ export const TRANSACTION_TYPE_OPTIONS = [
     label: "Depósito",
   },
   {
-    value: TransactionType.DEPOSIT,
+    value: TransactionType.INVESTIMENT,
     label: "Investimento",
   },
 ];
